@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sunset">Whitby Abbey Sunset</string>
+    <string name="castle">Mont Saint-Michel Castle</string>
+    <string name="bell">Korean Bell Garden</string>
+    <string name="arc">Arc de Triomphe de l\'Etoile</string>
+    <string name="Lsunset">Image Of Whitby Abbey Sunset</string>
+    <string name="Lcastle">Image Of Mont Saint-Michel Castle</string>
+    <string name="Lbell">Image Of Korean Bell Garden</string>
+    <string name="Larc">Image Of Arc de Triomphe de l\'Etoile</string>
+
+</resources>

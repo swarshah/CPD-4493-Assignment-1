@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sunset">Abadía de Whitby Atardecer</string>
+    <string name="castle">Mont Saint-Michel Castillo</string>
+    <string name="bell">Bell coreano Jardín</string>
+    <string name="arc">Arco del Triunfo de l Etoile</string>
+    <string name="Lsunset">Imagen De La Abadía de Whitby Atardecer</string>
+    <string name="Lcastle">Imagen De Mont Saint-Michel Castillo</string>
+    <string name="Lbell">Imagen De La Campana Coreana Jardín</string>
+    <string name="Larc">Imagen De Arco del Triunfo de l Etoile</string>
+
+</resources>
